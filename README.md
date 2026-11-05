@@ -7,7 +7,7 @@ This repository contains a practical Jupyter Notebook covering essential visuali
 ## 📋 Table of Contents
                                   
 - 📝 Project Overview
-- 📊 Visualizations Covered
+- 📊 Visualizations Covered               
 - 🛠️ Technologies & Libraries
 - ⚙️ Prerequisites
 - 🚀 Installation & Setup
