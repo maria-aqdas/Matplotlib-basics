@@ -3,7 +3,7 @@
 A beginner-friendly, hands-on guide to **Data Visualization in Python using Matplotlib**.
 
 This repository contains a practical Jupyter Notebook covering essential visualization techniques, including line plots, bar charts, histograms, pie charts, scatter plots, and subplots. It is designed to help beginners understand how to create, customize, and interpret different types of charts using Python.
-
+                
 ## 📋 Table of Contents
                                   
 - 📝 Project Overview
